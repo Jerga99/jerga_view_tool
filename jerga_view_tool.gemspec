@@ -6,8 +6,8 @@ require "jerga_view_tool/version"
 Gem::Specification.new do |spec|
   spec.name          = "jerga_view_tool"
   spec.version       = JergaViewTool::VERSION
-  spec.authors       = ["TODO: Write your name"]
-  spec.email         = ["TODO: Write your email address"]
+  spec.authors       = ["Filip Jerga"]
+  spec.email         = ["jerga99@gmail.com"]
 
   spec.summary       = %q{Various view specific methods for my porfofolio page}
   spec.description   = %q{Provides generated HTML data for Rails applications.}
