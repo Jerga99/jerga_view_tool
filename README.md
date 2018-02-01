@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+JergaViewTool::Renderer.copyright "Owner name", "All right reserved"
+```
 
 ## Development
 
